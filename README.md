@@ -1,5 +1,5 @@
 # Intro2Bioinformatics
 
-Exercises for the Medical Biometry/Biostatistics Master, Introduction to Bioinformatics course, 2020
+Exercises for the Medical Biometry/Biostatistics Master, Introduction to Bioinformatics course, since 2014
 
-    See Wiki
+    Go to [Wiki](https://github.com/marceladavila/Intro2Bioinformatics/wiki)
